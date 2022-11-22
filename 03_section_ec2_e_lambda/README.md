@@ -26,6 +26,7 @@ O intuito dessa aula é criar uma forma de criação de instância EC2 de maneir
 - Na seção `Permissions policies`, abra a policy criada (clicando no símbolo de +) e clique em `Edit`;
 - Clique na aba `JSON`;
 - Cole o seguinte JSON:
+  
   ```json
   {
   "Version": "2012-10-17",
@@ -48,6 +49,7 @@ O intuito dessa aula é criar uma forma de criação de instância EC2 de maneir
     ]
   }
   ```
+
 - Em seguida, clique em `Review policy` e em seguida `Save changes`;
 - Agora, acessando a tela de permissões da lambda, você deverá conseguir ver em `Resource summary` os dois serviços (CloudWatch e EC2);
 

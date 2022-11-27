@@ -234,4 +234,4 @@ Agora, apenas para teste, volte nesta regra criada e edite para que ao invés de
 
 ### **Concluido - Parte 2 de 2**
 
-Agora, apenas para teste, volte nesta regra criada e edite para que ao invés de rodar às 20:00, rode a cada 1 minuto, assim fica mais fácil para ver se já está funcionando.
+Agora, apenas para teste, volte nesta regra criada e edite para que ao invés de rodar às 06:00, rode a cada 1 minuto, assim fica mais fácil para ver se já está funcionando.
